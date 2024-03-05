@@ -1,0 +1,28 @@
+# ignore .env
+.env
+
+# ignore .env.local
+.env.local
+
+# ignore .env.*.local
+.env.*.local
+
+# ignore all php files here
+*.php
+
+# ignore all windows and mac system files
+.DS_Store
+Thumbs.db
+
+# ignore all node_modules
+node_modules
+
+# ignore all json and csv output files
+*.json
+*.csv
+
+# ignore all log files
+*.log
+
+# ignore all zip files
+*.zip
